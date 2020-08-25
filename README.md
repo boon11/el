@@ -1,7 +1,7 @@
 # el
 e-learning
 
-# conda setup
+# Conda Setup
 
 '''sh
 $conda create -n dsi200_demo python3.6
